@@ -1,0 +1,24 @@
+Version: 1.0
+
+RestoreWorkspace: Yes
+SaveWorkspace: Yes
+AlwaysSaveHistory: Yes
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 4
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+AutoAppendNewline: Yes
+StripTrailingWhitespace: Yes
+
+MarkdownWrap: Sentence
+MarkdownReferences: Document
+MarkdownCanonical: Yes
+
+ZoteroLibraries: "My Library"
+
+SpellingDictionary: en_US
